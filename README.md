@@ -14,3 +14,6 @@ This repository contains robust C++ implementations of a `Single_Linked_List` an
 
 - Abstract `Employee` class that forms the blueprint for all employees.
 - Specialized classes for `Professional` and `NonProfessional` employees, each with their logic for calculating salaries, health contributions, and vacation days.
+
+### Program Output
+https://imgur.com/a/Worhtvh
